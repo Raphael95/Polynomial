@@ -2,7 +2,7 @@
 
 
 environment | version
--------------|:--------:|----------------:
+---|:--:|---:
 sklearn | 0.19.1
 matplotlib | 2.1.1
 numpy | 1.13.3
