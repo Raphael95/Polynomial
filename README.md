@@ -1,11 +1,11 @@
 # Polynomial Regression
 
 
-environment | version
----|:--:|---:
-sklearn | 0.19.1
-matplotlib | 2.1.1
-numpy | 1.13.3
+environment |  version 
+----------- | ---------
+sklearn     |  0.19.1
+matplotlib  |  2.1.1
+numpy       |  1.13.3
 
 
 ## it is a polynomial regression using Batch Gradient Descent and Stochastic Gradient Descent, the are following :
